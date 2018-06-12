@@ -2,9 +2,9 @@
 
 
 ## Test Platform:
-Python: 3.5
-Pytorch: 0.3.1
-OS: Ubuntu
+Python: 3.5  
+Pytorch: 0.3.1  
+OS: Ubuntu  
 
 
 ## To Do:
