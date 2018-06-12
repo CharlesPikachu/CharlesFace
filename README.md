@@ -15,11 +15,8 @@
 
 
 ## Record:
-None
-
-
-## When to start?
-Hope in 2018.07.01
+1.2018-06-12: Face recognition project completed. 【Version】: V1.0.
+2.
 
 
 ## Some Famous Face Datasets:
@@ -31,12 +28,6 @@ http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html  
 http://vis-www.cs.umass.edu/fddb/  
 ### CASIA WebFace:
 http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html  
-
-
-## Reference:
-### Paper:
-
-### Github Project:
 
 
 ## More:

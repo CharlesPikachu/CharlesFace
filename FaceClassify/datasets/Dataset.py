@@ -10,7 +10,6 @@ from PIL import Image
 from torch.utils.data import Dataset
 
 
-
 # Without labels.
 class TripletImageDataset(Dataset):
 	def __init__(self, root, transform=None, max_pairs=1000):
