@@ -8,7 +8,7 @@
 
 
 ## Record:
-1.2018-06-12: Face recognition project completed. 【Version】: V1.0	
+1.2018-06-12: Face recognition project completed. 【Version】: V1.0  
 2.
 
 
