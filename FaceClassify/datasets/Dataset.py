@@ -144,7 +144,7 @@ class STripletImageDataset(Dataset):
 		return self.max_pairs
 
 
-# 
+# With label.
 class TripletFaceDataset(datasets.ImageFolder):
 	def __init__(self, dir_, n_triplets, transform=None, *arg, **kwargs):
 		super(TripletFaceDataset, self).__init__(dir_, transform)
