@@ -1,0 +1,6 @@
+train  = celeba_train.txt
+valid  = celeba_test.txt
+names = data/celeba_face.names
+backup = backup
+gpus  = 0,1
+num_workers = 4
