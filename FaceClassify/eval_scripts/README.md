@@ -9,4 +9,4 @@ Step2: run code as 'python eval_lfw.py'.
 Test trained model using my own pictures.  
 ## Usage
 Step1: Modify Line35-Line37, Line41 according to your requirements.  
-Step2: run code as 'python eval_lfw.py'.  
+Step2: run code as 'python eval_own.py'.  
