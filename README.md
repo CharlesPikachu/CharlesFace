@@ -1,21 +1,14 @@
 # Face detection and recognition.【In PyTorch 0.3】
 
 
-## Functions：
-1. Face Detection.
-2. Face Recognition.
-3. ...
-
-
 ## To Do:
-1. Easy to train the model designed by yourself.
-2. Easy to test the performance of your model.
-3. Useful Tools.
-4. ...
+1. Face Detection.
+2. Face Recognition/Classification.
+3. Provide Useful Tools.
 
 
 ## Record:
-1.2018-06-12: Face recognition project completed. 【Version】: V1.0.
+1.2018-06-12: Face recognition project completed. 【Version】: V1.0
 2.
 
 
