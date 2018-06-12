@@ -1,4 +1,4 @@
-# Face detection and recognition.【In PyTorch】
+# Face detection and recognition.【In PyTorch 0.3】
 
 
 ## Functions：
