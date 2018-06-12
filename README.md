@@ -1,4 +1,10 @@
-# Face detection and recognition.【In PyTorch 0.3】
+# Face detection and recognition.
+
+
+## Test Platform:
+Python: 3.5
+Pytorch: 0.3.1
+OS: Ubuntu
 
 
 ## To Do:
