@@ -8,14 +8,15 @@ OS: Ubuntu
 
 
 # To Do:
-[ ] Face Detection.
-[x] Face Recognition/Classification.
-[ ] Provide Useful Tools.
+- [ ] Face Detection.
+- [x] Face Recognition/Classification.
+- [ ] Provide Useful Tools.
 
 
 # Record:
-### 2018-06-12: Face recognition project completed. 【Version】: V1.0  
-2. 
+### 2018-06-12: 
+Face recognition project completed.  
+Version: V1.0  
 
 
 # Some Famous Face Datasets:
