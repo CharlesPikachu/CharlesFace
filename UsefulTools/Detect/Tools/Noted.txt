@@ -1,0 +1,2 @@
+some of .py file must run at project root directory.
+that means move .py file to ./YOLOV3_Project_test

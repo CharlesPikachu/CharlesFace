@@ -8,16 +8,17 @@
 
 
 # To Do:
-- [ ] Face Detection.
+- [x] Face Detection.
 - [x] Face Recognition/Classification.
-- [ ] Provide Useful Tools.
+- [x] Provide Useful Tools.
 
 
 # Record:
 ### 2018-06-12: 
 Face recognition project completed.  
 Version: V1.0  
-
+### 2018-09-09: 
+Upload a disorganized version written long long ago, anytime when I'm free, I would optimize this project.
 
 # Some Famous Face Datasets:
 #### [LFW](http://vis-www.cs.umass.edu/lfw/ )

@@ -1,7 +1,8 @@
-# Author: 
-# 	Charles
-# Function:
-# 	Implementation of darknet.
+# paper: 
+# 	yolo1: https://arxiv.org/abs/1506.02640
+# 	yolo2: https://arxiv.org/abs/1612.08242
+# 	yolo3: https://pjreddie.com/media/files/papers/YOLOv3.pdf
+# Author: Charles
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

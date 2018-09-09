@@ -1,0 +1,11 @@
+{
+	"num_anchors": 5,
+	"ann_dir": "E:\\GraduationProject\\Datasets\\CelebA_dataset\\CelebA\\Annotations\\",
+	"img_dir": "",
+	"txt_dir": "E:\\WiderFace\\labels",
+	"labels": "",
+	"save_name": "",
+	"count_max": 182339,
+	"width": 416,
+	"height": 416
+}
