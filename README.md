@@ -1,7 +1,7 @@
 # Face detection and recognition.
 ```sh
-The implement of face detection is based on [*YOLO*](https://pjreddie.com/darknet/).
-The implement of face recognition/classification is based on [*Facenet*](https://arxiv.org/abs/1503.03832).
+The implement of face detection is based on YOLO(https://pjreddie.com/darknet/).
+The implement of face recognition/classification is based on Facenet(https://arxiv.org/abs/1503.03832).
 ```
 
 # Warning
@@ -41,5 +41,5 @@ Upload a disorganized version written long long ago, anytime when I'm free, I wo
 
 # More
 ### WeChat Official Accounts
-- Charles_pikachu  
+*Charles_pikachu*  
 ![img](pikachu.jpg)
