@@ -23,11 +23,11 @@ If you get any bugs, you could open a issue to get my help.
 - [x] Provide Useful Tools.
 
 # Record
-### 2018-06-12
+#### 2018-06-12
 ```sh
 Face recognition project completed.
 ```
-### 2018-09-09
+#### 2018-09-09
 ```sh
 Upload a disorganized version written long long ago, anytime when I'm free, I would optimize this project.
 ```
@@ -40,6 +40,6 @@ Upload a disorganized version written long long ago, anytime when I'm free, I wo
 - [VGG Face](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
 
 # More
-### WeChat Official Accounts
+#### WeChat Official Accounts
 *Charles_pikachu*  
 ![img](pikachu.jpg)
